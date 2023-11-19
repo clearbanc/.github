@@ -15,7 +15,6 @@
 - [ ] Add screenshots for this PR.
 - [ ] Add testing instructions for this PR.
 - [ ] Introduce or modify relevant documentation
-- [ ] Remove changes that aren't related to the purpose of this PR.
 - [ ] Ensure unhappy paths are considered and tested
 - [ ] Ensure there is a plan for monitoring post-deployment
 - [ ] Test your changes in the deployed PR preview environment / [run migration locally](https://github.com/clearbanc/code/tree/staging/packages/migrations#run-migrations) (if applicable).
