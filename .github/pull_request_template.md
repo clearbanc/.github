@@ -14,7 +14,7 @@
 - [ ] Add a brief description, screenshots (if applicable), and testing instructions for this PR.
 - [ ] Introduce or modify relevant documentation
 - [ ] Ensure unhappy paths are considered and tested
-- [ ] Ensure there is a plan for monitoring post-deployment
+- [ ] Ensure unhappy paths are considered/tested, and there is a plan for monitoring post-deployment
 - [ ] Test your changes in the deployed PR preview environment / [run migration locally](https://github.com/clearbanc/code/tree/staging/packages/migrations#run-migrations) (if applicable).
 - [ ] Ensure test coverage value in config file match actual coverage (if applicable).
 
