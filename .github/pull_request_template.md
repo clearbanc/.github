@@ -11,9 +11,7 @@
 ## Post-release Monitoring Plan <sub><sup>(what's your plan to monitor the changes to make sure they have the intended effect)</sup></sub>
 
 ## Checklist
-- [ ] Add a brief description of the purpose of this PR.
-- [ ] Add screenshots for this PR.
-- [ ] Add testing instructions for this PR.
+- [ ] Add a brief description, screenshots (if applicable), and testing instructions for this PR.
 - [ ] Introduce or modify relevant documentation
 - [ ] Ensure unhappy paths are considered and tested
 - [ ] Ensure there is a plan for monitoring post-deployment
